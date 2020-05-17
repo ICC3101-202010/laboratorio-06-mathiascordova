@@ -14,6 +14,7 @@ namespace lab_6_mathiascordova
     {
         private string companyName;
         private string companyRUT;
+        private List<Division> companyDivisions;
 
         public void SetName(string name)
         {
@@ -32,6 +33,16 @@ namespace lab_6_mathiascordova
         public string GetRUT()
         {
             return companyRUT;
+        }
+
+        public void SetDivisions(List<Division> divisions)
+        {
+            companyDivisions = divisions;
+        }
+
+        public List<Division> GetDivisions()
+        {
+            return companyDivisions;
         }
     }
 }
