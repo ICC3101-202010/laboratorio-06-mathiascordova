@@ -1,0 +1,6 @@
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\bin\Debug\lab-6-mathiascordova.exe.config
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\bin\Debug\lab-6-mathiascordova.exe
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\bin\Debug\lab-6-mathiascordova.pdb
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\obj\Debug\lab-6-mathiascordova.csprojAssemblyReference.cache
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\obj\Debug\lab-6-mathiascordova.exe
+C:\Users\mathi\OneDrive\Escritorio\laboratorio-06-mathiascordova\lab-6-mathiascordova\lab-6-mathiascordova\obj\Debug\lab-6-mathiascordova.pdb
