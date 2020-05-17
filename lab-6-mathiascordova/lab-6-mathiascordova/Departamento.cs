@@ -9,6 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace lab_6_mathiascordova
 {
+    [Serializable]
     class Departamento : Division
     {
         public Departamento()

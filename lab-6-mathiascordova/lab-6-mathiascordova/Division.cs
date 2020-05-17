@@ -9,6 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace lab_6_mathiascordova
 {
+    [Serializable]
     class Division
     {
         protected Persona divisionBoss;
@@ -20,5 +21,17 @@ namespace lab_6_mathiascordova
             divisionBoss.SetCharge("Jefe de Division");
             
         }
+
+        public string GetName()
+        {
+            return divisionName;
+        }
+
+        public virtual string GetBoss()
+        {
+            return divisionBoss.GetEmployee()+Environment.NewLine + "_________________________________________________"+Environment.NewLine + Environment.NewLine;
+        }
+
+        
     }
 }

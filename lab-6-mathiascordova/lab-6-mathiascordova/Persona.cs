@@ -9,6 +9,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 
 namespace lab_6_mathiascordova
 {
+    [Serializable]
     class Persona
     {
         private string employeeName;
@@ -16,7 +17,7 @@ namespace lab_6_mathiascordova
         private string employeeRUT;
         private string employeeCharge;
 
-        public void SetEmployee(string name, string surname, string rut)
+        public Persona(string name, string surname, string rut)
         {
             employeeName = name;
             employeeSurname = surname;
